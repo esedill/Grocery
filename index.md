@@ -2,15 +2,15 @@
 
 [Shop For Groceries](Shop-For-Groceries.html)
 
-[Contact for Status Order](Contact-for-Status-Order.html)
+[Contact for Order Status](Contact-for-Order-Status.html)
 
 [Check Out](Check-Out.html)
 
 [Price Match](Price-Match.html)
 
-[Copons](Coupons.html)
+[Coupons](Coupons.html)
 
-[Speak to Managemt](Speak-to-Managment.html)
+[Speak to Managment](Speak-to-Managment.html)
 
 [Rate Experence](Rate-Experence.html)
 
