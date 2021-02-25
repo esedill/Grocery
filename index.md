@@ -2,6 +2,26 @@
 
 [Shop For Groceries](Shop-For-Groceries.html)
 
+[Contact for Status Order](Contact-for-Status-Order.html)
+
+[Check Out](Check-Out.html)
+
+[Price Match](Price-Match.html)
+
+[Copons](Coupons.html)
+
+[Speak to Managemt](Speak-to-Managment.html)
+
+[Rate Experence](Rate-Experence.html)
+
+[Log In](Log-In.html)
+
+[Log Out](Log-Out.html)
+
+
+
+[Order Containig 21+ Item]
+
 You can use the [editor on GitHub](https://github.com/esedill/Grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
