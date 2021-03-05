@@ -18,7 +18,7 @@
 
 [Log Out](Log-Out.html)
 
-
+[Register](Register.html)
 
 [Order Containig 21+ Item]
 
